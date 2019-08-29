@@ -17,7 +17,7 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-
+    # Extra comments added for tracking this change in the bikeshare_2.py file with git
 
     # get user input for month (all, january, february, ... , june)
 
