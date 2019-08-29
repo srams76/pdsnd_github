@@ -11,5 +11,4 @@ In this project, we explore data relted to bike share systems for three major ci
 bikeshare_2.python and .csv data files for three major cities mentioned above.
 
 ### Credits
-Udacity.com and google.com
-
+Udacity.com and google.com and also http://love-python.blogspot.com/ and https://realpython.com/
