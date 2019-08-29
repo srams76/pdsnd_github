@@ -17,6 +17,7 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     print('Hello! Printing this message after refactoring the python code')
+    print('This is a second print for the refactoring commit in git')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
 
